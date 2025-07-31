@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Gregrietta-GPT",
+      "request": "launch",
+      "mainClass": "org.example.App",
+      "console": "externalTerminal"
+    }
+  ]
+}
