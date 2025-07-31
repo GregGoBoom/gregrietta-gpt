@@ -1,8 +1,8 @@
-package org.example;
+package com.gregrietta;
 
 import java.util.Scanner;
 
-public class App {
+public class Main {
     private static final String BOT_NAME = "Gregrietta";
 
     public static void main(String[] args) {
